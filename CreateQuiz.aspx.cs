@@ -16,34 +16,30 @@ namespace QuizApp
         protected void Page_Load(object sender, EventArgs e)
         {
             ValidationSettings.UnobtrusiveValidationMode = UnobtrusiveValidationMode.None;
-            dt.Columns.Add("QuestionText");
-            dt.Columns.Add("Option1");
-            dt.Columns.Add("Option2");
-            dt.Columns.Add("Option3");
-            dt.Columns.Add("Option4");
-            dt.Columns.Add("Answer");
 
-            ctlGrid.DataSource = dt;
-            ctlGrid.DataBind();
+            if (!IsPostBack)
+            {
+                dt.Columns.Add("QuestionText");
+                dt.Columns.Add("Option1");
+                dt.Columns.Add("Option2");
+                dt.Columns.Add("Option3");
+                dt.Columns.Add("Option4");
+                dt.Columns.Add("Answer");
+
+                ctlGrid.DataSource = dt;
+                ctlGrid.DataBind();
+            }
         }
 
         protected void ctlGrid_RowCommand(object sender, GridViewCommandEventArgs e)
         {
             if (e.CommandName == "DeleteRow")
             {
-                // Get the index of the row to delete
+
                 int index = Convert.ToInt32(e.CommandArgument);
 
-                // Remove the question from the list
                 questions.RemoveAt(index);
 
-                Debug.Write(questions);
-                Debug.Write("hello");
-                Response.Write("hello");
-                Response.Write(questions);
-                Response.Write(index);
-
-                // Rebind the updated list to the GridView
                 BindGrid();
             }
         }
@@ -76,6 +72,7 @@ namespace QuizApp
 
 
         protected void btnAddQuestion_Click(object sender, EventArgs e)
+        
         {
             questions.Add(new Question
             { 
@@ -93,16 +90,13 @@ namespace QuizApp
 
         protected void btnSubmitQuiz_Click(object sender, EventArgs e)
         {
-            // Step 1: Create a unique quiz ID
             string quizCode = Guid.NewGuid().ToString().Substring(0, 6);
 
-            // Step 2: Serialize the list of questions to JSON
             var jsonSerialiser = new JavaScriptSerializer();
             var jsonQuestions = jsonSerialiser.Serialize(questions);
 
             string name = ctlQuizName.Text.ToString();
 
-            // Step 3: Prepare SQL connection and query
             using (SqlConnection con = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\Database1.mdf;Integrated Security=True"))
             {
                 con.Open();
@@ -111,17 +105,13 @@ namespace QuizApp
 
                 using (SqlCommand cmd = new SqlCommand(insertQuery, con))
                 {
-                    // Step 4: Add parameters to the query
                     cmd.Parameters.AddWithValue("@quizId", quizCode);
                     cmd.Parameters.AddWithValue("@questions", jsonQuestions);
                     cmd.Parameters.AddWithValue("@name", name);
-
-                    // Step 5: Execute the query
                     cmd.ExecuteNonQuery();
                 }
             }
 
-            // Step 6: Display confirmation message
             Response.Write($"Quiz submitted successfully. Your Quiz Code is: {quizCode}");
         }
 

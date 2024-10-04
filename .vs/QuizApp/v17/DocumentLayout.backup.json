@@ -3,43 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\Anish\\source\\repos\\QuizApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|C:\\Users\\Anish\\source\\repos\\QuizApp\\createquiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:createquiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\createquiz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:createquiz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\createquiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:createquiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\deletequiz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:deletequiz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\errorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:errorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\deletequiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:deletequiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|C:\\Users\\Anish\\source\\repos\\QuizApp\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|C:\\Users\\Anish\\source\\repos\\QuizApp\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|C:\\Users\\Anish\\source\\repos\\QuizApp\\errorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:errorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|C:\\Users\\Anish\\source\\repos\\QuizApp\\deletequiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:deletequiz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|C:\\Users\\Anish\\source\\repos\\QuizApp\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|C:\\Users\\Anish\\source\\repos\\QuizApp\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|c:\\users\\anish\\source\\repos\\quizapp\\errorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|C:\\Users\\Anish\\source\\repos\\QuizApp\\errorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{30A311BD-D659-4641-9037-555E988334A5}|QuizApp.csproj|solutionrelative:errorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -50,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 374,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
@@ -67,12 +63,11 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-29T18:23:27.618Z",
-              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CreateQuiz.aspx",
               "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\CreateQuiz.aspx",
               "RelativeDocumentMoniker": "CreateQuiz.aspx",
@@ -85,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreateQuiz.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\CreateQuiz.aspx.cs",
               "RelativeDocumentMoniker": "CreateQuiz.aspx.cs",
-              "ToolTip": "C:\\Users\\Anish\\source\\repos\\QuizApp\\CreateQuiz.aspx.cs*",
-              "RelativeToolTip": "CreateQuiz.aspx.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwCsAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Anish\\source\\repos\\QuizApp\\CreateQuiz.aspx.cs",
+              "RelativeToolTip": "CreateQuiz.aspx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T02:56:15.042Z",
               "EditorCaption": ""
@@ -99,32 +94,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DeleteQuiz.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\DeleteQuiz.aspx.cs",
-              "RelativeDocumentMoniker": "DeleteQuiz.aspx.cs",
-              "ToolTip": "C:\\Users\\Anish\\source\\repos\\QuizApp\\DeleteQuiz.aspx.cs",
-              "RelativeToolTip": "DeleteQuiz.aspx.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwA8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T18:21:58.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Default.aspx.cs",
               "ToolTip": "C:\\Users\\Anish\\source\\repos\\QuizApp\\Default.aspx.cs",
               "RelativeToolTip": "Default.aspx.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wCYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T18:15:32.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AdminLogin.aspx",
               "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\AdminLogin.aspx",
               "RelativeDocumentMoniker": "AdminLogin.aspx",
@@ -132,8 +114,7 @@
               "RelativeToolTip": "AdminLogin.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-29T17:55:53.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T17:55:53.162Z"
             },
             {
               "$type": "Document",
@@ -145,12 +126,11 @@
               "RelativeToolTip": "DeleteQuiz.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-29T18:11:14.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T18:11:14.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ErrorPage.aspx",
               "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\ErrorPage.aspx",
               "RelativeDocumentMoniker": "ErrorPage.aspx",
@@ -158,12 +138,11 @@
               "RelativeToolTip": "ErrorPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-09-29T18:12:02.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T18:12:02.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ErrorPage.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\ErrorPage.aspx.cs",
               "RelativeDocumentMoniker": "ErrorPage.aspx.cs",
@@ -171,12 +150,11 @@
               "RelativeToolTip": "ErrorPage.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T18:11:53.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T18:11:53.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "AdminLogin.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Anish\\source\\repos\\QuizApp\\AdminLogin.aspx.cs",
               "RelativeDocumentMoniker": "AdminLogin.aspx.cs",
@@ -184,8 +162,7 @@
               "RelativeToolTip": "AdminLogin.aspx.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwB4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T18:05:00.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T18:05:00.148Z"
             }
           ]
         }
